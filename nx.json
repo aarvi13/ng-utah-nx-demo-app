@@ -37,6 +37,9 @@
       "tags": ["scope:admin"],
       "implicitDependencies": ["ng-utah-admin"]
     },
+	"petclinic": {
+		"tags": []
+	},
     "shared-components": {
       "tags": ["scope:shared", "type:ui"]
     },
